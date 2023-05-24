@@ -1,0 +1,63 @@
+/* estilo para imagen */
+
+.imgIcon{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 20px;
+}   
+
+/* estilos para el contenido de body */
+
+body{
+    font-family: "Times New Roman";
+    margin: 0;
+}
+
+.s_info_p{
+    background-color: #E6E6E6;
+}
+
+header h1{
+    text-align: center;
+}
+
+main{
+    margin: 100px 0 100px 0;
+}
+
+/*  datos-info-exp */
+
+.info{
+    background-color: #C4C4C4;  
+    color: #005677;
+    letter-spacing: 8px;
+    padding: 5px;
+    padding-left: 15px;
+    word-spacing: 10px;
+}
+
+.datos_p{
+    font-style: italic;
+    font-weight: bold;
+}
+
+.texto{
+    display: flex;
+    margin-left: 20px;
+}
+
+.texto span{
+    font-weight: bold;
+}
+
+/* footer */
+
+footer{
+    background-color: #005677;
+    color: white;
+    font-weight: bold;
+    padding: 10px;
+    text-align: center;
+    word-spacing: 10px;
+}
